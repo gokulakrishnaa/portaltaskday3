@@ -17,7 +17,7 @@
     },
     "work": [{
       "company": "Company",
-      "position": "President",
+      "position": "Developer",
       "website": "http://company.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
