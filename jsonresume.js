@@ -6,7 +6,7 @@
       "label": "Web Developer",
       "picture": "",
       "email": "gokulakrishnaapsivam@gmail.com",
-      "summary": "A summary of John Doe...",
+      "summary": "A summary...",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
